@@ -1,4 +1,9 @@
 .welcome-card img {
-  max-height: 35vh;
-  overflow: hidden;
+  width: 15em;
+  align-self: center;
+}
+.welcome-card{
+  display: flex;
+  flex-direction: column;
+  color: var(--ion-color-secondary);
 }
