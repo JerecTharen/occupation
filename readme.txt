@@ -5,6 +5,6 @@ It is a work in progress but here are the features planned:
 -Officer Applications
 -Blog to record guild events
 -Player Bounty System
+-Homepage
 
 Features Up and Running:
--Homepage
